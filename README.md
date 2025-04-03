@@ -6,4 +6,3 @@ You can clone directly with several conditions and usage
 - I made this program alone
 - I hope this code can help you understand HTML semantics
 - I hope this code can help you understand how CSS works.
-- 
